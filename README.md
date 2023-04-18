@@ -1,7 +1,8 @@
 ### Hi there 👋 It's MaurizioVillanova
 
-### Statistiche GitHub
 
+### Statistiche GitHub
+![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=MaurizioVillanova&show_icons=true)
 ![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=MaurizioVillanova&show_icons=true&theme=radical)
 
 ### Tech Stack
