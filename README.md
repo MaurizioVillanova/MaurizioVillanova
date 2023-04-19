@@ -17,12 +17,12 @@
 
 #
 
-### Statistiche GitHub
+### GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=MaurizioVillanova&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaurizioVillanova&theme=prussian&hide_border=false)<br/>
 
-### Tech Stack
+### Tech Stack:
 
 ![Le mie tecnologie principali](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaurizioVillanova&layout=compact&theme=radical)
 
